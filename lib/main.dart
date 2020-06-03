@@ -19,6 +19,8 @@ class _MyAppState extends State<MyApp> {
   FirebaseRepository _repository = FirebaseRepository();
   @override
   Widget build(BuildContext context) {
+//    _repository.signOut();
+
     return MaterialApp(
       title: "Hello",
       home: FutureBuilder(

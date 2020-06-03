@@ -32,6 +32,7 @@ dependencies:
   permission_handler: ^5.0.0+hotfix.8
   firebase_auth: ^0.16.1
   google_sign_in: ^4.5.1
+  shimmer:
 
 dev_dependencies:
   flutter_test:
